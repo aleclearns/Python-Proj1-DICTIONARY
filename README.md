@@ -6,6 +6,8 @@ features:
   + Input can be lowercase, uppercase, or mixed formatting
   + If input is not in database due to error in typing/spelling, suggestive queries are displayed
   + Program repeats until ordered to terminate using stop() or exit() command
+  
+  + Updated the commands for bugs that made the proper nouns (e.g. USA, Delhi) to not be recognized
 
 
 DISCLAIMER:
